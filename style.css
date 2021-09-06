@@ -1,0 +1,23 @@
+table {
+  width: 100%;
+}
+table,
+th,
+td {
+  border: 1px solid black;
+  border-collapse: collapse;
+}
+th, td{
+    width: 200px;
+    height: 59px;
+}
+td{
+    text-align: center;
+}
+table .end{
+    background-color: blue;
+    
+}
+.answer{
+    color: red;
+}
